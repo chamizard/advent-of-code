@@ -1,6 +1,7 @@
 # Part one solution below
 
 """ 
+# replace 'day1-input.txt' with name/path of input file
 input_file = open('day1-input.txt', 'r')
 sum = 0
 for line in input_file:
@@ -23,6 +24,7 @@ number_digits = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
 special_cases = ['oneight', 'twone', 'threeight', 'nineight', 'fiveight', 'eighthree', 'eightwo', 'sevenine']
 special_case_vals = ['18', '21', '38', '98', '58', '83', '82', '79']
 
+# replace 'day1-input.txt' with name/path of input file
 input_file = open('day1-input.txt', 'r')
 sum = 0
 line_num = 0
